@@ -47,3 +47,8 @@ aspects of evaluation:
 - oop
 - memory management
     - prob just means freeing memory when its no longer needed -> in child child threads
+
+
+Usage:
+give a txt file as argument to the executable
+main parses the txt file into a boost multi array
